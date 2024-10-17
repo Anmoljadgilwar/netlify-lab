@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript",
+    "title": "krishna krishna hare hare, ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "javascript.png"
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "title": "krishna krishna hare hare, ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "java.png"
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "title": "krishna krishna hare hare, ram ram hare hare",
+    "price": 0,
+    "category": "free",
+    "image": "python.png"
+  }
+]
